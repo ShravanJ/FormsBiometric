@@ -1,0 +1,6 @@
+layout/FingerprintDialog.axml;layout/fingerprintdialog.xml
+drawable-hdpi/fingerprint_white.png;drawable-hdpi/fingerprint_white.png
+drawable-mdpi/fingerprint_white.png;drawable-mdpi/fingerprint_white.png
+drawable-xhdpi/fingerprint_white.png;drawable-xhdpi/fingerprint_white.png
+drawable-xxhdpi/fingerprint_white.png;drawable-xxhdpi/fingerprint_white.png
+drawable-xxxhdpi/fingerprint_white.png;drawable-xxxhdpi/fingerprint_white.png

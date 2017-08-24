@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:FormsBiometric" x:Class="FormsBiometric.FormsBiometricPage">
+	   <StackLayout x:Name="Layout" Spacing = "20" Padding="75">
+        <Entry x:Name="usernameEntry" Placeholder="Username" VerticalOptions="Center" HorizontalOptions="FillAndExpand" />
+        <Entry x:Name="passwordEntry" Placeholder="Password" IsPassword = "true" VerticalOptions="Center" HorizontalOptions="FillAndExpand" />
+        <Button x:Name="loginButton" Text="Login" VerticalOptions="Center" HorizontalOptions="Center"/>
+        <Switch x:Name="biometricSwitch" VerticalOptions="Center" HorizontalOptions="Center" />
+        <Label x:Name="biometricLabel" Text="Login with Fingerprint?" VerticalOptions="Center" HorizontalOptions="CenterAndExpand" />
+        <Button x:Name="clearCredentialsButton" Text="Clear Credentials" VerticalOptions="Center" HorizontalOptions="Center" />
+    </StackLayout>
+</ContentPage>
