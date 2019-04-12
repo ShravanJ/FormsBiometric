@@ -1,5 +1,5 @@
 # FormsBiometric
-a basic example of cross platform biometric login in Xamarin Forms
+A newer, enhanced version of this sample is available here: https://github.com/ShravanJ/FormsBiometricEnhanced
 
 
 # Compiling and Running
